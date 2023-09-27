@@ -1,6 +1,9 @@
-### Hi there, I'm Noah 👋
+# Hi there, I'm Noah 👋
 
-#### Skills
+- 🏢 Software Developer for The Ohio State University
+- 🔭 I like to mess around with distributed computing with machine learning
+
+## Skills
 
 |            |                                                                                                                                                            |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -10,19 +13,4 @@
 | Data       | [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite)](https://skillicons.dev)                                                 |
 | Tools      | [![My Skills](https://skillicons.dev/icons?i=git,idea,gradle,maven,bash,cmake,postman,unity,androidstudio)](https://skillicons.dev)                        |
 |            |                                                                                                                                                            |
-
-<!--
-**noah-hein/noah-hein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
